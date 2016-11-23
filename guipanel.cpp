@@ -6,7 +6,7 @@
 
 #include <QJsonObject>
 #include <QJsonDocument>
-
+//aa
 // y que no estén incluidos en el interfaz gráfico. En este caso, la ventana de PopUp <QMessageBox>
 // que se muestra al recibir un PING de respuesta
 
